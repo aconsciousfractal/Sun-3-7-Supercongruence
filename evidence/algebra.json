@@ -1,0 +1,177 @@
+{
+  "CM_exact": {
+    "curve_discriminant": "-1458 + 729*sqrt(5)",
+    "h": "-1/18 + sqrt(5)/36 + I*(2 + sqrt(5))/36",
+    "j": "632000 + 282880*sqrt(5)",
+    "tau": "1/6 + sqrt(5)*I/6",
+    "v": "-9/64 - sqrt(5)/16"
+  },
+  "hecke_conjugations": {
+    "W2": [
+      [
+        "-2*A - 6*B + 6*C + 3*E",
+        "A + 2*B - 3*C - E"
+      ],
+      [
+        "-6*A - 18*B + 12*C + 6*E",
+        "3*A + 6*B - 6*C - 2*E"
+      ]
+    ],
+    "W6": [
+      [
+        "E",
+        "-C"
+      ],
+      [
+        "-6*B",
+        "A"
+      ]
+    ]
+  },
+  "identities": [
+    {
+      "name": "theta I=2Y L",
+      "residual": "0"
+    },
+    {
+      "name": "ordinary highest coefficient",
+      "residual": "0"
+    },
+    {
+      "name": "ordinary second coefficient",
+      "residual": "0"
+    },
+    {
+      "name": "weight4 covariance",
+      "residual": "0"
+    },
+    {
+      "name": "weight8 covariance",
+      "residual": "0"
+    },
+    {
+      "name": "top invariant coefficient",
+      "residual": "0"
+    },
+    {
+      "name": "involution W2",
+      "residual": "0"
+    },
+    {
+      "name": "t_a invariant W2",
+      "residual": "0"
+    },
+    {
+      "name": "t_Q invariant W2",
+      "residual": "0"
+    },
+    {
+      "name": "S product W2",
+      "residual": "0"
+    },
+    {
+      "name": "involution W6",
+      "residual": "0"
+    },
+    {
+      "name": "t_a invariant W6",
+      "residual": "0"
+    },
+    {
+      "name": "t_Q invariant W6",
+      "residual": "0"
+    },
+    {
+      "name": "S product W6",
+      "residual": "0"
+    },
+    {
+      "name": "R W2 inverse",
+      "residual": "0"
+    },
+    {
+      "name": "R W6 fixed",
+      "residual": "0"
+    },
+    {
+      "name": "parameter Mobius relation",
+      "residual": "0"
+    },
+    {
+      "name": "CM quadratic",
+      "residual": "0"
+    },
+    {
+      "name": "inversion tau",
+      "residual": "0"
+    },
+    {
+      "name": "inversion 2tau",
+      "residual": "0"
+    },
+    {
+      "name": "eta algebraic h",
+      "residual": "0"
+    },
+    {
+      "name": "t_a at tau",
+      "residual": "0"
+    },
+    {
+      "name": "t_Q at tau",
+      "residual": "0"
+    },
+    {
+      "name": "v at tau",
+      "residual": "0"
+    },
+    {
+      "name": "CM j from v",
+      "residual": "0"
+    },
+    {
+      "name": "elliptic j equals CM j",
+      "residual": "0"
+    },
+    {
+      "name": "elliptic discriminant",
+      "residual": "0"
+    },
+    {
+      "name": "discriminant norm",
+      "residual": "0"
+    },
+    {
+      "name": "a target D",
+      "residual": "0"
+    },
+    {
+      "name": "Q target D",
+      "residual": "0"
+    },
+    {
+      "name": "f target D",
+      "residual": "0"
+    },
+    {
+      "name": "quartic Clausen parameter",
+      "residual": "0"
+    },
+    {
+      "name": "conjugated determinant W2",
+      "residual": "0"
+    },
+    {
+      "name": "conjugated determinant W6",
+      "residual": "0"
+    },
+    {
+      "name": "j eta formula algebra",
+      "residual": "0"
+    }
+  ],
+  "identity_count": 35,
+  "no_float": true,
+  "ok": true,
+  "wrong_covariance_residual": "-4*Y**2*j**6*z**2 - 4*Y*Y1*j**7*z"
+}

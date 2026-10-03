@@ -1,0 +1,17 @@
+{
+  "CM_matrices": 148,
+  "Hasse_polynomial_identities": 43,
+  "Vandermonde_integer_rows": 2130,
+  "branch_counts": {
+    "inert": 152,
+    "nonprincipal": 79,
+    "principal": 70
+  },
+  "direct_sequence_values": 597,
+  "exact_resonant_coefficients": 258,
+  "finite_invariants": 129,
+  "invariant_coefficients": 25431,
+  "max_prime": 1999,
+  "ok": true,
+  "primes": 301
+}

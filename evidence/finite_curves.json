@@ -1,0 +1,376 @@
+[
+  {
+    "curve_points": 46,
+    "delta": [
+      3,
+      0
+    ],
+    "field_nonsquare": 3,
+    "homomorphism_samples": 12,
+    "map_compositions": 46,
+    "p": 7,
+    "rational_kernel_points": 1,
+    "s": [
+      0,
+      2
+    ],
+    "trace_over_p2": 4
+  },
+  {
+    "curve_points": 46,
+    "delta": [
+      3,
+      0
+    ],
+    "field_nonsquare": 3,
+    "homomorphism_samples": 12,
+    "map_compositions": 46,
+    "p": 7,
+    "rational_kernel_points": 1,
+    "s": [
+      0,
+      5
+    ],
+    "trace_over_p2": 4
+  },
+  {
+    "curve_points": 144,
+    "delta": [
+      0,
+      5
+    ],
+    "field_nonsquare": 2,
+    "homomorphism_samples": 12,
+    "map_compositions": 144,
+    "p": 11,
+    "rational_kernel_points": 1,
+    "s": [
+      4,
+      0
+    ],
+    "trace_over_p2": -22
+  },
+  {
+    "curve_points": 144,
+    "delta": [
+      0,
+      5
+    ],
+    "field_nonsquare": 2,
+    "homomorphism_samples": 12,
+    "map_compositions": 144,
+    "p": 11,
+    "rational_kernel_points": 1,
+    "s": [
+      7,
+      0
+    ],
+    "trace_over_p2": -22
+  },
+  {
+    "curve_points": 196,
+    "delta": [
+      0,
+      2
+    ],
+    "field_nonsquare": 2,
+    "homomorphism_samples": 12,
+    "map_compositions": 196,
+    "p": 13,
+    "rational_kernel_points": 1,
+    "s": [
+      0,
+      3
+    ],
+    "trace_over_p2": -26
+  },
+  {
+    "curve_points": 196,
+    "delta": [
+      0,
+      2
+    ],
+    "field_nonsquare": 2,
+    "homomorphism_samples": 12,
+    "map_compositions": 196,
+    "p": 13,
+    "rational_kernel_points": 1,
+    "s": [
+      0,
+      10
+    ],
+    "trace_over_p2": -26
+  },
+  {
+    "curve_points": 256,
+    "delta": [
+      0,
+      2
+    ],
+    "field_nonsquare": 3,
+    "homomorphism_samples": 12,
+    "map_compositions": 256,
+    "p": 17,
+    "rational_kernel_points": 1,
+    "s": [
+      0,
+      8
+    ],
+    "trace_over_p2": 34
+  },
+  {
+    "curve_points": 256,
+    "delta": [
+      0,
+      2
+    ],
+    "field_nonsquare": 3,
+    "homomorphism_samples": 12,
+    "map_compositions": 256,
+    "p": 17,
+    "rational_kernel_points": 1,
+    "s": [
+      0,
+      9
+    ],
+    "trace_over_p2": 34
+  },
+  {
+    "curve_points": 400,
+    "delta": [
+      0,
+      8
+    ],
+    "field_nonsquare": 2,
+    "homomorphism_samples": 12,
+    "map_compositions": 400,
+    "p": 19,
+    "rational_kernel_points": 5,
+    "s": [
+      9,
+      0
+    ],
+    "trace_over_p2": -38
+  },
+  {
+    "curve_points": 400,
+    "delta": [
+      0,
+      8
+    ],
+    "field_nonsquare": 2,
+    "homomorphism_samples": 12,
+    "map_compositions": 400,
+    "p": 19,
+    "rational_kernel_points": 5,
+    "s": [
+      10,
+      0
+    ],
+    "trace_over_p2": -38
+  },
+  {
+    "curve_points": 574,
+    "delta": [
+      8,
+      0
+    ],
+    "field_nonsquare": 5,
+    "homomorphism_samples": 12,
+    "map_compositions": 574,
+    "p": 23,
+    "rational_kernel_points": 1,
+    "s": [
+      0,
+      1
+    ],
+    "trace_over_p2": -44
+  },
+  {
+    "curve_points": 574,
+    "delta": [
+      8,
+      0
+    ],
+    "field_nonsquare": 5,
+    "homomorphism_samples": 12,
+    "map_compositions": 574,
+    "p": 23,
+    "rational_kernel_points": 1,
+    "s": [
+      0,
+      22
+    ],
+    "trace_over_p2": -44
+  },
+  {
+    "curve_points": 864,
+    "delta": [
+      13,
+      0
+    ],
+    "field_nonsquare": 2,
+    "homomorphism_samples": 12,
+    "map_compositions": 864,
+    "p": 29,
+    "rational_kernel_points": 1,
+    "s": [
+      11,
+      0
+    ],
+    "trace_over_p2": -22
+  },
+  {
+    "curve_points": 864,
+    "delta": [
+      13,
+      0
+    ],
+    "field_nonsquare": 2,
+    "homomorphism_samples": 12,
+    "map_compositions": 864,
+    "p": 29,
+    "rational_kernel_points": 1,
+    "s": [
+      18,
+      0
+    ],
+    "trace_over_p2": -22
+  },
+  {
+    "curve_points": 1024,
+    "delta": [
+      0,
+      9
+    ],
+    "field_nonsquare": 3,
+    "homomorphism_samples": 12,
+    "map_compositions": 1024,
+    "p": 31,
+    "rational_kernel_points": 1,
+    "s": [
+      6,
+      0
+    ],
+    "trace_over_p2": -62
+  },
+  {
+    "curve_points": 1024,
+    "delta": [
+      0,
+      9
+    ],
+    "field_nonsquare": 3,
+    "homomorphism_samples": 12,
+    "map_compositions": 1024,
+    "p": 31,
+    "rational_kernel_points": 1,
+    "s": [
+      25,
+      0
+    ],
+    "trace_over_p2": -62
+  },
+  {
+    "curve_points": 1444,
+    "delta": [
+      0,
+      4
+    ],
+    "field_nonsquare": 2,
+    "homomorphism_samples": 12,
+    "map_compositions": 1444,
+    "p": 37,
+    "rational_kernel_points": 1,
+    "s": [
+      0,
+      13
+    ],
+    "trace_over_p2": -74
+  },
+  {
+    "curve_points": 1444,
+    "delta": [
+      0,
+      4
+    ],
+    "field_nonsquare": 2,
+    "homomorphism_samples": 12,
+    "map_compositions": 1444,
+    "p": 37,
+    "rational_kernel_points": 1,
+    "s": [
+      0,
+      24
+    ],
+    "trace_over_p2": -74
+  },
+  {
+    "curve_points": 1620,
+    "delta": [
+      6,
+      0
+    ],
+    "field_nonsquare": 3,
+    "homomorphism_samples": 12,
+    "map_compositions": 1620,
+    "p": 41,
+    "rational_kernel_points": 5,
+    "s": [
+      13,
+      0
+    ],
+    "trace_over_p2": 62
+  },
+  {
+    "curve_points": 1620,
+    "delta": [
+      6,
+      0
+    ],
+    "field_nonsquare": 3,
+    "homomorphism_samples": 12,
+    "map_compositions": 1620,
+    "p": 41,
+    "rational_kernel_points": 5,
+    "s": [
+      28,
+      0
+    ],
+    "trace_over_p2": 62
+  },
+  {
+    "curve_points": 1926,
+    "delta": [
+      9,
+      0
+    ],
+    "field_nonsquare": 2,
+    "homomorphism_samples": 12,
+    "map_compositions": 1926,
+    "p": 43,
+    "rational_kernel_points": 1,
+    "s": [
+      0,
+      14
+    ],
+    "trace_over_p2": -76
+  },
+  {
+    "curve_points": 1926,
+    "delta": [
+      9,
+      0
+    ],
+    "field_nonsquare": 2,
+    "homomorphism_samples": 12,
+    "map_compositions": 1926,
+    "p": 43,
+    "rational_kernel_points": 1,
+    "s": [
+      0,
+      29
+    ],
+    "trace_over_p2": -76
+  }
+]

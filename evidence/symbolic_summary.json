@@ -1,0 +1,35 @@
+{
+  "engine": "SymPy exact algebraic polynomial domain",
+  "identities": [
+    {
+      "name": "curve",
+      "residual": "0"
+    },
+    {
+      "name": "composition numerator",
+      "residual": "0"
+    },
+    {
+      "name": "composition denominator",
+      "residual": "0"
+    },
+    {
+      "name": "y-coordinate normalization of multiplication by 5",
+      "residual": "0"
+    },
+    {
+      "name": "Clausen operator change z=1-u^2",
+      "residual": "0"
+    },
+    {
+      "name": "symmetric square of Legendre",
+      "residual": "0"
+    },
+    {
+      "name": "Hasse cubic translation",
+      "residual": "0"
+    }
+  ],
+  "ok": true,
+  "resultant": "59049/10 - 649539*sqrt(5)/250"
+}

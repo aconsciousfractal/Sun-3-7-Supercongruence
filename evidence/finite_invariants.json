@@ -1,0 +1,1034 @@
+[
+  {
+    "discriminant_modp": 3,
+    "form": "a",
+    "number_of_coefficients": 15,
+    "p": 7,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 3,
+    "form": "Q",
+    "number_of_coefficients": 15,
+    "p": 7,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 4,
+    "form": "f",
+    "number_of_coefficients": 15,
+    "p": 7,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 2,
+    "form": "a",
+    "number_of_coefficients": 23,
+    "p": 11,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 4,
+    "form": "Q",
+    "number_of_coefficients": 23,
+    "p": 11,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 7,
+    "form": "f",
+    "number_of_coefficients": 23,
+    "p": 11,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 3,
+    "form": "a",
+    "number_of_coefficients": 27,
+    "p": 13,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 11,
+    "form": "Q",
+    "number_of_coefficients": 27,
+    "p": 13,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 2,
+    "form": "f",
+    "number_of_coefficients": 27,
+    "p": 13,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 15,
+    "form": "a",
+    "number_of_coefficients": 35,
+    "p": 17,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 14,
+    "form": "Q",
+    "number_of_coefficients": 35,
+    "p": 17,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 3,
+    "form": "f",
+    "number_of_coefficients": 35,
+    "p": 17,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 10,
+    "form": "a",
+    "number_of_coefficients": 39,
+    "p": 19,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 6,
+    "form": "Q",
+    "number_of_coefficients": 39,
+    "p": 19,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 13,
+    "form": "f",
+    "number_of_coefficients": 39,
+    "p": 19,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 15,
+    "form": "a",
+    "number_of_coefficients": 47,
+    "p": 23,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 7,
+    "form": "Q",
+    "number_of_coefficients": 47,
+    "p": 23,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 16,
+    "form": "f",
+    "number_of_coefficients": 47,
+    "p": 23,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 4,
+    "form": "a",
+    "number_of_coefficients": 59,
+    "p": 29,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 23,
+    "form": "Q",
+    "number_of_coefficients": 59,
+    "p": 29,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 6,
+    "form": "f",
+    "number_of_coefficients": 59,
+    "p": 29,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 13,
+    "form": "a",
+    "number_of_coefficients": 63,
+    "p": 31,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 9,
+    "form": "Q",
+    "number_of_coefficients": 63,
+    "p": 31,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 22,
+    "form": "f",
+    "number_of_coefficients": 63,
+    "p": 31,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 26,
+    "form": "a",
+    "number_of_coefficients": 75,
+    "p": 37,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 29,
+    "form": "Q",
+    "number_of_coefficients": 75,
+    "p": 37,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 8,
+    "form": "f",
+    "number_of_coefficients": 75,
+    "p": 37,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 1,
+    "form": "a",
+    "number_of_coefficients": 83,
+    "p": 41,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 32,
+    "form": "Q",
+    "number_of_coefficients": 83,
+    "p": 41,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 9,
+    "form": "f",
+    "number_of_coefficients": 83,
+    "p": 41,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 20,
+    "form": "a",
+    "number_of_coefficients": 87,
+    "p": 43,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 12,
+    "form": "Q",
+    "number_of_coefficients": 87,
+    "p": 43,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 31,
+    "form": "f",
+    "number_of_coefficients": 87,
+    "p": 43,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 5,
+    "form": "a",
+    "number_of_coefficients": 95,
+    "p": 47,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 13,
+    "form": "Q",
+    "number_of_coefficients": 95,
+    "p": 47,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 34,
+    "form": "f",
+    "number_of_coefficients": 95,
+    "p": 47,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 46,
+    "form": "a",
+    "number_of_coefficients": 107,
+    "p": 53,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 41,
+    "form": "Q",
+    "number_of_coefficients": 107,
+    "p": 53,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 12,
+    "form": "f",
+    "number_of_coefficients": 107,
+    "p": 53,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 56,
+    "form": "a",
+    "number_of_coefficients": 119,
+    "p": 59,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 16,
+    "form": "Q",
+    "number_of_coefficients": 119,
+    "p": 59,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 43,
+    "form": "f",
+    "number_of_coefficients": 119,
+    "p": 59,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 14,
+    "form": "a",
+    "number_of_coefficients": 123,
+    "p": 61,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 47,
+    "form": "Q",
+    "number_of_coefficients": 123,
+    "p": 61,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 14,
+    "form": "f",
+    "number_of_coefficients": 123,
+    "p": 61,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 61,
+    "form": "a",
+    "number_of_coefficients": 135,
+    "p": 67,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 18,
+    "form": "Q",
+    "number_of_coefficients": 135,
+    "p": 67,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 49,
+    "form": "f",
+    "number_of_coefficients": 135,
+    "p": 67,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 59,
+    "form": "a",
+    "number_of_coefficients": 143,
+    "p": 71,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 19,
+    "form": "Q",
+    "number_of_coefficients": 143,
+    "p": 71,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 52,
+    "form": "f",
+    "number_of_coefficients": 143,
+    "p": 71,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 49,
+    "form": "a",
+    "number_of_coefficients": 147,
+    "p": 73,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 56,
+    "form": "Q",
+    "number_of_coefficients": 147,
+    "p": 73,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 17,
+    "form": "f",
+    "number_of_coefficients": 147,
+    "p": 73,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 12,
+    "form": "a",
+    "number_of_coefficients": 159,
+    "p": 79,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 21,
+    "form": "Q",
+    "number_of_coefficients": 159,
+    "p": 79,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 58,
+    "form": "f",
+    "number_of_coefficients": 159,
+    "p": 79,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 6,
+    "form": "a",
+    "number_of_coefficients": 167,
+    "p": 83,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 22,
+    "form": "Q",
+    "number_of_coefficients": 167,
+    "p": 83,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 61,
+    "form": "f",
+    "number_of_coefficients": 167,
+    "p": 83,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 67,
+    "form": "a",
+    "number_of_coefficients": 179,
+    "p": 89,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 68,
+    "form": "Q",
+    "number_of_coefficients": 179,
+    "p": 89,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 21,
+    "form": "f",
+    "number_of_coefficients": 179,
+    "p": 89,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 11,
+    "form": "a",
+    "number_of_coefficients": 195,
+    "p": 97,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 74,
+    "form": "Q",
+    "number_of_coefficients": 195,
+    "p": 97,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 23,
+    "form": "f",
+    "number_of_coefficients": 195,
+    "p": 97,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 64,
+    "form": "a",
+    "number_of_coefficients": 203,
+    "p": 101,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 77,
+    "form": "Q",
+    "number_of_coefficients": 203,
+    "p": 101,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 24,
+    "form": "f",
+    "number_of_coefficients": 203,
+    "p": 101,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 90,
+    "form": "a",
+    "number_of_coefficients": 207,
+    "p": 103,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 27,
+    "form": "Q",
+    "number_of_coefficients": 207,
+    "p": 103,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 76,
+    "form": "f",
+    "number_of_coefficients": 207,
+    "p": 103,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 55,
+    "form": "a",
+    "number_of_coefficients": 215,
+    "p": 107,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 28,
+    "form": "Q",
+    "number_of_coefficients": 215,
+    "p": 107,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 79,
+    "form": "f",
+    "number_of_coefficients": 215,
+    "p": 107,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 104,
+    "form": "a",
+    "number_of_coefficients": 219,
+    "p": 109,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 83,
+    "form": "Q",
+    "number_of_coefficients": 219,
+    "p": 109,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 26,
+    "form": "f",
+    "number_of_coefficients": 219,
+    "p": 109,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 31,
+    "form": "a",
+    "number_of_coefficients": 227,
+    "p": 113,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 86,
+    "form": "Q",
+    "number_of_coefficients": 227,
+    "p": 113,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 27,
+    "form": "f",
+    "number_of_coefficients": 227,
+    "p": 113,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 40,
+    "form": "a",
+    "number_of_coefficients": 255,
+    "p": 127,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 33,
+    "form": "Q",
+    "number_of_coefficients": 255,
+    "p": 127,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 94,
+    "form": "f",
+    "number_of_coefficients": 255,
+    "p": 127,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 57,
+    "form": "a",
+    "number_of_coefficients": 263,
+    "p": 131,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 34,
+    "form": "Q",
+    "number_of_coefficients": 263,
+    "p": 131,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 97,
+    "form": "f",
+    "number_of_coefficients": 263,
+    "p": 131,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 98,
+    "form": "a",
+    "number_of_coefficients": 275,
+    "p": 137,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 104,
+    "form": "Q",
+    "number_of_coefficients": 275,
+    "p": 137,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 33,
+    "form": "f",
+    "number_of_coefficients": 275,
+    "p": 137,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 105,
+    "form": "a",
+    "number_of_coefficients": 279,
+    "p": 139,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 36,
+    "form": "Q",
+    "number_of_coefficients": 279,
+    "p": 139,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 103,
+    "form": "f",
+    "number_of_coefficients": 279,
+    "p": 139,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 53,
+    "form": "a",
+    "number_of_coefficients": 299,
+    "p": 149,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 113,
+    "form": "Q",
+    "number_of_coefficients": 299,
+    "p": 149,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 36,
+    "form": "f",
+    "number_of_coefficients": 299,
+    "p": 149,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 96,
+    "form": "a",
+    "number_of_coefficients": 303,
+    "p": 151,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 39,
+    "form": "Q",
+    "number_of_coefficients": 303,
+    "p": 151,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 112,
+    "form": "f",
+    "number_of_coefficients": 303,
+    "p": 151,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 81,
+    "form": "a",
+    "number_of_coefficients": 315,
+    "p": 157,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 119,
+    "form": "Q",
+    "number_of_coefficients": 315,
+    "p": 157,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 38,
+    "form": "f",
+    "number_of_coefficients": 315,
+    "p": 157,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 45,
+    "form": "a",
+    "number_of_coefficients": 327,
+    "p": 163,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 42,
+    "form": "Q",
+    "number_of_coefficients": 327,
+    "p": 163,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 121,
+    "form": "f",
+    "number_of_coefficients": 327,
+    "p": 163,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 153,
+    "form": "a",
+    "number_of_coefficients": 335,
+    "p": 167,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 43,
+    "form": "Q",
+    "number_of_coefficients": 335,
+    "p": 167,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 124,
+    "form": "f",
+    "number_of_coefficients": 335,
+    "p": 167,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 117,
+    "form": "a",
+    "number_of_coefficients": 347,
+    "p": 173,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 131,
+    "form": "Q",
+    "number_of_coefficients": 347,
+    "p": 173,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 42,
+    "form": "f",
+    "number_of_coefficients": 347,
+    "p": 173,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 28,
+    "form": "a",
+    "number_of_coefficients": 359,
+    "p": 179,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 46,
+    "form": "Q",
+    "number_of_coefficients": 359,
+    "p": 179,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 133,
+    "form": "f",
+    "number_of_coefficients": 359,
+    "p": 179,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 79,
+    "form": "a",
+    "number_of_coefficients": 363,
+    "p": 181,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 137,
+    "form": "Q",
+    "number_of_coefficients": 363,
+    "p": 181,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 44,
+    "form": "f",
+    "number_of_coefficients": 363,
+    "p": 181,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 7,
+    "form": "a",
+    "number_of_coefficients": 383,
+    "p": 191,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 49,
+    "form": "Q",
+    "number_of_coefficients": 383,
+    "p": 191,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 142,
+    "form": "f",
+    "number_of_coefficients": 383,
+    "p": 191,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 92,
+    "form": "a",
+    "number_of_coefficients": 387,
+    "p": 193,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 146,
+    "form": "Q",
+    "number_of_coefficients": 387,
+    "p": 193,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 47,
+    "form": "f",
+    "number_of_coefficients": 387,
+    "p": 193,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 23,
+    "form": "a",
+    "number_of_coefficients": 395,
+    "p": 197,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 149,
+    "form": "Q",
+    "number_of_coefficients": 395,
+    "p": 197,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 48,
+    "form": "f",
+    "number_of_coefficients": 395,
+    "p": 197,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 71,
+    "form": "a",
+    "number_of_coefficients": 399,
+    "p": 199,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 51,
+    "form": "Q",
+    "number_of_coefficients": 399,
+    "p": 199,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  },
+  {
+    "discriminant_modp": 148,
+    "form": "f",
+    "number_of_coefficients": 399,
+    "p": 199,
+    "resonance_2p_verified": true,
+    "resonance_p_verified": true
+  }
+]

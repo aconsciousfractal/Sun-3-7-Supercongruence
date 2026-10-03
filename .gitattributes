@@ -1,0 +1,4 @@
+* text=auto eol=lf -filter
+*.csv -text -filter
+*.pdf -text -filter -merge -diff
+*.zip -text -filter -merge -diff

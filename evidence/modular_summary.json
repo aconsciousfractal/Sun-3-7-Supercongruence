@@ -1,0 +1,13 @@
+{
+  "E4_required_coefficients": 2,
+  "exact_CM_factors": 4,
+  "forms": 2,
+  "hecke_integer_coefficients": 660,
+  "hecke_polynomials": 6,
+  "mutations_detected": 6,
+  "ok": true,
+  "series_through": 24,
+  "weight2_required_coefficients": 6,
+  "weight8_identities": 4,
+  "weight8_required_coefficients": 36
+}

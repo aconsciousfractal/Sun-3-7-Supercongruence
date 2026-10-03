@@ -1,0 +1,107 @@
+[
+  {
+    "coefficients": 1,
+    "n": 0,
+    "ok": true
+  },
+  {
+    "coefficients": 3,
+    "n": 1,
+    "ok": true
+  },
+  {
+    "coefficients": 5,
+    "n": 2,
+    "ok": true
+  },
+  {
+    "coefficients": 7,
+    "n": 3,
+    "ok": true
+  },
+  {
+    "coefficients": 9,
+    "n": 4,
+    "ok": true
+  },
+  {
+    "coefficients": 11,
+    "n": 5,
+    "ok": true
+  },
+  {
+    "coefficients": 13,
+    "n": 6,
+    "ok": true
+  },
+  {
+    "coefficients": 15,
+    "n": 7,
+    "ok": true
+  },
+  {
+    "coefficients": 17,
+    "n": 8,
+    "ok": true
+  },
+  {
+    "coefficients": 19,
+    "n": 9,
+    "ok": true
+  },
+  {
+    "coefficients": 21,
+    "n": 10,
+    "ok": true
+  },
+  {
+    "coefficients": 23,
+    "n": 11,
+    "ok": true
+  },
+  {
+    "coefficients": 25,
+    "n": 12,
+    "ok": true
+  },
+  {
+    "coefficients": 27,
+    "n": 13,
+    "ok": true
+  },
+  {
+    "coefficients": 29,
+    "n": 14,
+    "ok": true
+  },
+  {
+    "coefficients": 31,
+    "n": 15,
+    "ok": true
+  },
+  {
+    "coefficients": 33,
+    "n": 16,
+    "ok": true
+  },
+  {
+    "coefficients": 35,
+    "n": 17,
+    "ok": true
+  },
+  {
+    "coefficients": 37,
+    "n": 18,
+    "ok": true
+  },
+  {
+    "coefficients": 39,
+    "n": 19,
+    "ok": true
+  },
+  {
+    "coefficients": 41,
+    "n": 20,
+    "ok": true
+  }
+]

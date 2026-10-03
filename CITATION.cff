@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "Please cite the manuscript, companion version and evidence identity."
+type: software
+title: "Sun's supercongruence for two Apéry-like binomial sums at discriminant -20"
+version: "0.1.0"
+repository-code: "https://github.com/aconsciousfractal/Sun-3-7-Supercongruence"
+authors:
+  - family-names: "Babanskyy"
+    given-names: "Oleksiy"
+abstract: "A proof of Zhi-Hong Sun's Conjecture 3.7 for every prime other than 2 and 5, using finite differential invariants, modular-polynomial specialisation and an explicit degree-five isogeny, with an exact-arithmetic companion."
+preferred-citation:
+  type: article
+  title: "Sun's supercongruence for two Apéry-like binomial sums at discriminant -20"
+  authors:
+    - family-names: "Babanskyy"
+      given-names: "Oleksiy"
+  year: 2026
+  notes: "Manuscript and companion version 0.1.0. See EVIDENCE_SHA256.txt for the computational evidence identity."
+references:
+  - type: article
+    title: "Supercongruences involving Apéry-like numbers and binomial coefficients"
+    authors:
+      - family-names: "Sun"
+        given-names: "Zhi-Hong"
+    journal: "AIMS Mathematics"
+    volume: "7"
+    issue: "2"
+    start: 2729
+    end: 2781
+    year: 2022
+    doi: "10.3934/math.2022153"

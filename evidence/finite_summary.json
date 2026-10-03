@@ -1,0 +1,24 @@
+{
+  "exact_Legendre_square_coefficients": 441,
+  "exact_Legendre_square_rows": 21,
+  "finite_curve_primes": 11,
+  "finite_curves": 22,
+  "finite_homomorphism_samples": 264,
+  "finite_point_compositions": 16988,
+  "fresh_original_prime_rows": 44,
+  "missing_t_integrality": {
+    "c": 7,
+    "difference": "176/21609",
+    "gate": "-3",
+    "lhs": "132/16807",
+    "p": 7,
+    "rhs": "-44/151263",
+    "t": "1/7",
+    "v7_difference": -4,
+    "weights": "delta_{j,6}"
+  },
+  "ok": true,
+  "ordinary_parameter_lifts": 1120,
+  "polynomial_Hasse_coefficients": 1075,
+  "polynomial_Hasse_rows": 43
+}

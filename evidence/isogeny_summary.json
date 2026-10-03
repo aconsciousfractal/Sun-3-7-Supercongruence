@@ -1,0 +1,73 @@
+{
+  "curve_discriminant": [
+    "-1458",
+    "729"
+  ],
+  "curve_discriminant_norm": "-531441",
+  "denominator_primes": [
+    2,
+    5
+  ],
+  "engine": "standard-library rational-pair polynomial arithmetic",
+  "identities": [
+    {
+      "coefficient_pairs": 20,
+      "name": "curve map: f H^2+5(A^3 B+a A B^3+b B^4)",
+      "residual": "0"
+    },
+    {
+      "coefficient_pairs": 26,
+      "name": "self-composition numerator equals numerator x([5])",
+      "residual": "0"
+    },
+    {
+      "coefficient_pairs": 25,
+      "name": "self-composition denominator equals psi5^2",
+      "residual": "0"
+    },
+    {
+      "coefficient_pairs": 37,
+      "name": "derivative of x([5]) equals 5 omega5/y",
+      "residual": "0"
+    }
+  ],
+  "kernel_discriminant": [
+    "9/2",
+    "-9/10"
+  ],
+  "kernel_discriminant_norm": "81/5",
+  "mutation_controls": [
+    {
+      "coefficient": [
+        "9991309681816341/256000",
+        "8936295359036571/512000"
+      ],
+      "first_nonzero_degree": 0,
+      "name": "omit divisor 5"
+    },
+    {
+      "coefficient": [
+        "15856248605815/32768",
+        "14448429690465/65536"
+      ],
+      "first_nonzero_degree": 0,
+      "name": "replace delta^2=-5 by +5"
+    },
+    {
+      "coefficient": [
+        "513571224215/8192",
+        "457554809595/16384"
+      ],
+      "first_nonzero_degree": 0,
+      "name": "change numerator constant by 1"
+    }
+  ],
+  "nondegenerate_characteristics": "p>5",
+  "ok": true,
+  "residual_coefficient_pairs": 108,
+  "resultant_n_k": [
+    "59049/10",
+    "-649539/250"
+  ],
+  "resultant_norm": "3486784401/3125"
+}

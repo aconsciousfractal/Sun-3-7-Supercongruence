@@ -1,0 +1,56 @@
+{
+  "false_generic_lift": [
+    {
+      "Legendre_delta_comparison": 48,
+      "a20_delta_weight": 20,
+      "p": 7
+    },
+    {
+      "Legendre_delta_comparison": 1,
+      "a20_delta_weight": 12,
+      "p": 11
+    },
+    {
+      "Legendre_delta_comparison": 168,
+      "a20_delta_weight": 12,
+      "p": 13
+    }
+  ],
+  "modp3_nonequality": [
+    {
+      "Qminus16_modp3": 290,
+      "a20_modp3": 192,
+      "p": 7
+    },
+    {
+      "Qminus16_modp3": 484,
+      "a20_modp3": 1089,
+      "p": 11
+    },
+    {
+      "Qminus16_modp3": 169,
+      "a20_modp3": 1521,
+      "p": 13
+    },
+    {
+      "Qminus16_modp3": 4693,
+      "a20_modp3": 4332,
+      "p": 19
+    },
+    {
+      "Qminus16_modp3": 24367,
+      "a20_modp3": 5024,
+      "p": 29
+    }
+  ],
+  "mutated_a20_plus1_rejected": true,
+  "p3": {
+    "Q": 4,
+    "a": 4
+  },
+  "p7_CM": {
+    "correct_raw": 45,
+    "omit_half": 41,
+    "wrong_character": 4
+  }
+}
