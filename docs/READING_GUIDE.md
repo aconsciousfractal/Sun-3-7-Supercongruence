@@ -33,7 +33,7 @@ those evaluations. Consult the [claim map](CLAIM_MAP.md) and
 | Full truncation | All terms through p−1 are retained modulo p². |
 | Modular identities | Cusp holomorphy and the valence bound precede the finite coefficient certificates. |
 | Hecke coefficients | Integral descent and the geometric degree bound hold for arbitrary admissible p. |
-| Degree p | A separate endpoint g_p≡g_1 eliminates the degree-p term; comparison only through p−1 would be insufficient. |
+| Degree p | The endpoint [t^p]G(t)≡[t]G(t) for each period eliminates the degree-p term; comparison only through p−1 would be insufficient. |
 | Specialization | A finite polynomial identity is evaluated after its proof, using an exact unit root. |
 | CM classes | Both determinant 1 and determinant 2 occur, with the latter's character sign. |
 | Transport | Parameters and coefficients are p-integral and 1−4ct is a unit. |

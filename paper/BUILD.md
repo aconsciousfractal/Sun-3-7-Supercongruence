@@ -1,20 +1,22 @@
 # Delivered PDF build
 
-The version 0.1.0 manuscript has 18 A4 pages, nine main sections and three
+The version 0.1.1 manuscript has 18 A4 pages, nine main sections and three
 appendices. Theorem 1.1 begins on page 1. Page numbers are the only running
 text; there is no table of contents or repeated author/title header.
-All 20 used font subsets are embedded.
+All 23 used font subsets are embedded.
 
 The delivered build used MiKTeX-pdfTeX 4.23 (MiKTeX 25.12), pdfTeX 1.40.28,
 LaTeX2e 2025-11-01 and L3 2025-12-24. Three passes completed with no compiler,
 package, reference, duplicate-destination or overfull/underfull warnings.
 All 18 rendered pages were visually inspected.
+An actual rebuild from the extracted version 0.1.1 source archive produced
+the identical PDF with this recorded environment.
 
 | Artifact | SHA-256 |
 | --- | --- |
-| TeX source | `54f42bca484d5ca181b419eb4af7c18197605fcba27c36103e8115f8c2198a88` |
-| Delivered PDF | `b91bf8716bc9c881836b7f973767e03054733dd41005ee882cd44967ce2df952` |
-| EVIDENCE_SHA256.txt | `b5d9762b681919932cbf1c54e0c9296bdd42fe09d44dc8450215b40079277219` |
+| TeX source | `c4a75925cd505ff97b4c796193f1efef1fe2506c912dfc356f1d94ec330185b1` |
+| Delivered PDF | `6cdc4f95c9d892ce09874f4874e44da0c9728b3de13f362e022f2fee6aea7afa` |
+| EVIDENCE_SHA256.txt | `035baf66ce55e008c441b05e316c54b323ad6b2146f5bc6f23eeede99d3ea977` |
 
 Run from the repository root with an existing TeX installation:
 

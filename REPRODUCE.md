@@ -94,7 +94,7 @@ rebuild before refreshing the full manifest. Ordinary verification never
 rewrites evidence or inventories.
 
 ~~~text
-python -B scripts/make_archive.py --output <output-directory>/Sun-3-7-Supercongruence-0.1.0.zip
+python -B scripts/make_archive.py --output <output-directory>/Sun-3-7-Supercongruence-0.1.1.zip
 ~~~
 
 Replace the placeholder with a writable directory outside the repository

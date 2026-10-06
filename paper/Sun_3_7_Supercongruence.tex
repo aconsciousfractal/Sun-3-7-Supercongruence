@@ -21,7 +21,6 @@
 \newcommand{\Fp}{\mathbb F_p}
 \newcommand{\Fpp}{\mathbb F_{p^2}}
 \newcommand{\Zp}{\mathbb Z_p}
-\newcommand{\eps}{\varepsilon_p}
 \newcommand{\dd}{\partial}
 \newcommand{\leg}[2]{\left(\frac{#1}{#2}\right)}
 \newcommand{\smat}[4]{\begin{pmatrix}#1&#2\\#3&#4\end{pmatrix}}
@@ -65,25 +64,29 @@ For $n\ge0$ define the Franel numbers and two Ap\'ery-like sequences by
 \end{split}
 \end{equation}
 Write
-\begin{align}\label{eq:series}
- G_a(t)&=\sum_{n\ge0}\binom{2n}n a_nt^n,&
- G_Q(t)&=\sum_{n\ge0}\binom{2n}n Q_nt^n,\\
- A_p&=G_{a,p}(1/20),&B_p&=G_{Q,p}(-1/16),\notag
-\end{align}
-where the subscript $p$ always means truncation at degrees
-$0,\ldots,p-1$. All congruences of $p$-integral rational numbers are
-interpreted in $\Zp$. Set $\eps=(-1)^{(p-1)/2}$.
+\begin{equation}\label{eq:series}
+ G_a(t)=\sum_{n\ge0}\binom{2n}n a_nt^n,\qquad
+ G_Q(t)=\sum_{n\ge0}\binom{2n}n Q_nt^n.
+\end{equation}
+Their truncations at degrees $0,\ldots,p-1$ are denoted by
+$G_{a,p}(t)$ and $G_{Q,p}(t)$. This convention for the subscript $p$
+will also be used for a generic series $G$. All congruences of
+$p$-integral rational numbers are interpreted in $\Zp$.
 
 \begin{theorem}\label{thm:main}
 For every prime $p\ne2,5$,
 \begin{equation}\label{eq:main}
- \eps A_p\equiv\eps B_p\equiv
+\begin{aligned}
+ &(-1)^{(p-1)/2}G_{a,p}(1/20)
+ \equiv(-1)^{(p-1)/2}G_{Q,p}(-1/16)\\
+ &\qquad\equiv
  \begin{cases}
  4x^2-2p,&p=x^2+5y^2,\quad p\equiv1,9\pmod{20},\\
  2x^2-2p,&2p=x^2+5y^2,\quad p\equiv3,7\pmod{20},\\
  0,&p\equiv11,13,17,19\pmod{20}
  \end{cases}
  \pmod{p^2}.
+\end{aligned}
 \end{equation}
 \end{theorem}
 
@@ -109,8 +112,9 @@ organization of the author's treatments of Sun's Conjectures~3.5 and~3.6
 the two previous supercongruences are not assumptions of the proof.
 
 The modular orbit argument uses Beukers's Lemma~3.7
-\cite{beukers}. The degree-$p$ endpoint follows the mechanism in his
-Theorem~6.1, whose stronger congruence has different hypotheses; the
+\cite{beukers}. The degree-$p$ endpoint follows the coefficient
+comparison in the proof of his Theorem~6.1, whose stronger congruence
+has different hypotheses; the
 modulo-$p^2$ statement required here is proved in
 Theorem~\ref{thm:specialization}. The modulo-$p$ Legendre and Franel
 antecedents are identified in Section~\ref{sec:modp}; the classical
@@ -464,13 +468,17 @@ orbifold points of the quotient.
 
 \section{The integral Hecke polynomial and finite specialization}\label{sec:hecke}
 \begin{lemma}\label{lem:endpoint}
-For every prime $p>3$, if $g_n^a=\binom{2n}n a_n$ and
-$g_n^Q=\binom{2n}n Q_n$, then
+For every prime $p>3$,
 \[
- g_p^a\equiv g_1^a=6,\qquad
- g_p^Q\equiv g_1^Q=-12\pmod{p^2}.
+ \binom{2p}p a_p\equiv6,\qquad
+ \binom{2p}p Q_p\equiv-12\pmod{p^2}.
 \]
 \end{lemma}
+The congruence $Q_p\equiv Q_1=-6\pmod{p^2}$ is known: it is the
+$n=1$ consequence, after reduction modulo $p^2$, of Mao's stronger
+congruence for $Q_{np}$ modulo $p^3$ \cite[Theorem~1.4]{mao}.
+We give the alternative deduction from Straub below to make the
+sequence convention explicit.
 \begin{proof}
 We have
 \[
@@ -576,8 +584,8 @@ $p$-adic unit root of $\mathscr T_p(X,t_0)$, then
 $G_p(t_0)\equiv\xi\pmod{p^2}$.
 \end{theorem}
 \begin{proof}
-The endpoint comparison follows the mechanism of Beukers's
-Theorem~6.1 \cite[p.~24]{beukers}. His theorem has different
+The endpoint comparison follows the coefficient comparison in the
+proof of Beukers's Theorem~6.1 \cite[p.~24]{beukers}. His theorem has different
 hypotheses and proves a congruence modulo $p^3$. The case needed
 here modulo $p^2$, with pole-bound exponent $1/2$, is proved directly
 as follows.
@@ -597,8 +605,9 @@ $t^\sigma=t(q(t)^p)=t^p+O(t^{p+1})$. By
 Proposition~\ref{prop:parameters},
 \[
  \mathcal Q=\frac{G(t)}{G(t^\sigma)}
-   =G_p(t)+(g_p-g_1)t^p+O(t^{p+1}).
+   =G_p(t)+\bigl([u^p]G(u)-[u]G(u)\bigr)t^p+O(t^{p+1}).
 \]
+Here $[u]G(u)$ is $6$ for $G_a$ and $-12$ for $G_Q$.
 Lemma~\ref{lem:endpoint} eliminates precisely this extra coefficient
 modulo $p^2$. All coefficients of the polynomial of degree at most
 $p$ are now congruent to those of $G_p$. Multiplication by
@@ -742,7 +751,7 @@ In the principal case the trace of $\xi_1$ is $4x^2-2p$.
 In the nonprincipal case the trace of $\xi_2$ is $2p-2x^2$.
 The nonunit conjugate root has valuation two and disappears modulo
 $p^2$, so either sum is congruent to the respective trace.
-Finally $\eps=1$ in the principal residue classes and $\eps=-1$
+Finally $(-1)^{(p-1)/2}=1$ in the principal residue classes and $(-1)^{(p-1)/2}=-1$
 in the nonprincipal classes. This proves the two signed values.
 \end{proof}
 
@@ -786,8 +795,8 @@ its definition. With
 the pairs $(c,t)=(1,1/20),(-8,-1/16)$ have $D_0=4/5,-1$.
 Consequently
 \begin{equation}\label{eq:transport-values}
- A_p\equiv\leg5p F_{16,p},\qquad
- B_p\equiv\eps F_{16,p}\pmod p.
+ G_{a,p}(1/20)\equiv\leg5p F_{16,p},\qquad
+ G_{Q,p}(-1/16)\equiv(-1)^{(p-1)/2} F_{16,p}\pmod p.
 \end{equation}
 These specializations also follow from \cite[Theorem~3.4]{sun}.
 They are used only modulo $p$: even a modulo-$p^2$ vanishing of
@@ -796,7 +805,7 @@ $R_p$ does not pass through them without an additional argument.
 \begin{lemma}\label{lem:dixon}
 For $p>5$,
 \begin{equation}\label{eq:dixon-reduction}
- F_{16,p}\equiv\eps R_p\pmod p,\qquad
+ F_{16,p}\equiv(-1)^{(p-1)/2} R_p\pmod p,\qquad
  R_p=\sum_{j=0}^{p-1}\frac{(4j)!}{(j!)^4}(-1024)^{-j}.
 \end{equation}
 \end{lemma}
@@ -832,7 +841,7 @@ with right side zero if $2j>N$. Indeed the summand equals
 $\binom Nj^2\binom{N-j}{k-j}\binom{N-j}k$, so Vandermonde's
 identity applies. For $2j\le N$,
 \[
- \binom{2N-2j}{N-2j}\equiv\eps\binom N{2j}\pmod p,
+ \binom{2N-2j}{N-2j}\equiv(-1)^{(p-1)/2}\binom N{2j}\pmod p,
 \]
 and
 \[
@@ -1057,7 +1066,7 @@ $\mathcal R$ at every $p>5$, proving the theorem uniformly.
 \begin{proposition}\label{prop:inert}
 For $p>5$ with $(-5/p)=-1$ and either root $s^2=5$ in $\Fpp$,
 we have $\mathcal H_p(s/2)=0$. Consequently
-$A_p\equiv B_p\equiv0\pmod{p^2}$.
+$G_{a,p}(1/20)\equiv G_{Q,p}(-1/16)\equiv0\pmod{p^2}$.
 \end{proposition}
 \begin{proof}
 Theorem~\ref{thm:isogeny} constructs $\Phi$ directly in
@@ -1080,8 +1089,10 @@ Lemma~\ref{lem:hasse}, Corollary~\ref{cor:quartic},
 Lemma~\ref{lem:dixon}, and \eqref{eq:transport-values} give
 \[
  \mathcal H_p(s/2)=0\ \Longrightarrow\ P_d(s/2)=0
- \ \Longrightarrow\ R_p=F_{16,p}=A_p=B_p=0\pmod p.
+ \ \Longrightarrow\ R_p=F_{16,p}=0\pmod p.
 \]
+Equation~\eqref{eq:transport-values} then gives
+$G_{a,p}(1/20)\equiv G_{Q,p}(-1/16)\equiv0\pmod p$.
 Apply Lemma~\ref{lem:lifting} separately to $G_{a,p}$ at $1/20$
 and to $G_{Q,p}$ at $-1/16$. The unit conditions are exactly
 \eqref{eq:D-values}. This yields vanishing modulo $p^2$ of each
@@ -1090,9 +1101,10 @@ original sum.
 
 \begin{proof}[Completion of Theorem~\ref{thm:main}]
 Propositions~\ref{prop:split} and \ref{prop:inert} cover every
-prime $p>5$. For $p=3$, the three summands in either $A_3$ or
-$B_3$ are $(1,3,0)$ modulo nine, by their definitions. Hence
-$A_3\equiv B_3\equiv4$, and $\eps A_3\equiv\eps B_3\equiv5$.
+prime $p>5$. For $p=3$, the three summands in each of
+$G_{a,3}(1/20)$ and $G_{Q,3}(-1/16)$ are $(1,3,0)$ modulo nine,
+by their definitions. Each sum is therefore congruent to $4$;
+multiplying by $(-1)^{(3-1)/2}=-1$ gives $5$ modulo nine.
 The representation $2\cdot3=1^2+5\cdot1^2$ gives
 $2\cdot1^2-2\cdot3\equiv5\pmod9$, as required.
 The primes $2,5$ are excluded in the original statement.
@@ -1123,8 +1135,8 @@ $m(m-1)(1-u^2)$. Thus the roots are simple.
 Conversely, if $4u^2-5$ divides $P_d$, then
 Corollary~\ref{cor:quartic}, Lemma~\ref{lem:dixon} and
 \eqref{eq:transport-values} give
-$A_p\equiv0\pmod p$. At a split prime,
-Theorem~\ref{thm:main} gives $\eps A_p\equiv4x^2$ or $2x^2$
+$G_{a,p}(1/20)\equiv0\pmod p$. At a split prime,
+Theorem~\ref{thm:main} gives $(-1)^{(p-1)/2} G_{a,p}(1/20)\equiv4x^2$ or $2x^2$
 modulo $p$, which is nonzero by the primitive representation.
 Hence the prime is inert. This converse uses the already proved
 theorem and is not a premise of its proof.
@@ -1285,7 +1297,7 @@ Theorem~\ref{thm:isogeny}. A finite panel of point counts or
 supercongruence tests would not supply this implication.
 
 \section{Companion and reproducibility}\label{app:companion}
-The companion repository for this manuscript, version~0.1.0, is
+The companion repository for this manuscript, version~0.1.1, is
 \begin{center}
 \url{https://github.com/aconsciousfractal/Sun-3-7-Supercongruence}.
 \end{center}
@@ -1294,7 +1306,7 @@ the algebraic certificates (C0)--(C3), the endpoint calculations, and
 finite checks of the original binomial definitions. Its deterministic
 evidence manifest is identified by SHA-256
 \begin{center}\ttfamily\small
-\detokenize{b5d9762b681919932cbf1c54e0c9296bdd42fe09d44dc8450215b40079277219}
+\detokenize{035baf66ce55e008c441b05e316c54b323ad6b2146f5bc6f23eeede99d3ea977}
 \end{center}
 The evidence digest binds the stated arithmetic outputs and their
 inputs; it does not certify novelty or mathematical correctness.
@@ -1302,6 +1314,10 @@ The modular identities and fixed algebraic certificates are used
 with the sufficiency arguments in the preceding appendices.
 Numerical checks at individual primes serve as regressions and are
 not premises of the uniform theorem.
+
+\paragraph{Acknowledgment.}
+The author thanks Zhi-Hong Sun for comments on the presentation of
+the companion manuscripts and for pointing out Mao's result on $Q_{np}$.
 
 \paragraph{AI assistance and responsibility.}
 AI assistance under the author's direction was used for mathematical
@@ -1364,6 +1380,13 @@ Theorem~3.2.
 Jeremy Rouse and John J. Webb,
 \emph{On spaces of modular forms spanned by eta-quotients},
 \href{https://arxiv.org/abs/1311.1460v3}{arXiv:1311.1460v3}.
+
+\bibitem{mao}
+Guo-Shuai Mao,
+\emph{Congruences involving Franel numbers and Ap\'ery-like numbers},
+preprint (2023), Theorem~1.4.
+\href{https://doi.org/10.13140/RG.2.2.23378.73922}{doi:10.13140/RG.2.2.23378.73922}.
+The cited author-uploaded full text is dated 8 January 2025 on ResearchGate.
 
 \bibitem{craig}
 William Craig,

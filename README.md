@@ -13,12 +13,12 @@ a_n=\sum_{j=0}^n\binom nj^2\binom{2j}j,\qquad
 Q_n=\sum_{j=0}^n\binom nj(-8)^{n-j}f_j.
 $$
 
-For every prime $p\ne2,5$, put $\varepsilon_p=(-1)^{(p-1)/2$. The manuscript proves
+For every prime $p\ne2,5$, the manuscript proves
 
 $$
-\varepsilon_p\sum_{n=0}^{p-1}\binom{2n}n\frac{a_n}{20^n}
+(-1)^{(p-1)/2}\sum_{n=0}^{p-1}\binom{2n}n\frac{a_n}{20^n}
 \equiv
-\varepsilon_p\sum_{n=0}^{p-1}\binom{2n}n\frac{Q_n}{(-16)^n}
+(-1)^{(p-1)/2}\sum_{n=0}^{p-1}\binom{2n}n\frac{Q_n}{(-16)^n}
 \equiv
 \begin{cases}
 4x^2-2p,&p=x^2+5y^2,\ p\equiv1,9\pmod{20},\\
@@ -66,10 +66,10 @@ and valence bound; the fixed isogeny identities require the stated good
 reduction argument. The equality of the two sums modulo $p^3$ already fails
 at $p=7$.
 
-The work has not undergone independent specialist human review. No claim of
+The work has not undergone a complete independent specialist human review. No claim of
 bibliographic priority is made. See [AI assistance](AI_USE.md).
 
-Version: **0.1.0**. EVIDENCE_SHA256.txt identifies the computational core;
+Version: **0.1.1**. See the [revision notes](docs/REVISION_NOTES.md). EVIDENCE_SHA256.txt identifies the computational core;
 its digest is printed in the manuscript. MANIFEST_SHA256.txt identifies
 the complete distribution. Neither inventory is a signature, and a package
 version does not denote a journal version of record.
